@@ -89,7 +89,7 @@
     
     <h2 id="traits">Traits</h2>
     
-    <table id="table1" border="1">
+    <table class="center" border="1">
       
             <tr>
              <th>Weigt</th>
