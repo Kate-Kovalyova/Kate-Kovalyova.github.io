@@ -67,7 +67,11 @@
        #container {
            margin: 8px 8px 8px 10px;
            padding:10px;
-           border:1px solid rgb(14, 25, 179);
+           border:5px solid rgb(14, 25, 179);
+       }
+       #content {
+           position:relative;
+           left:50px;
        }
      
         
@@ -77,15 +81,16 @@
     <div id="container">
     <h1>Golden Retrievers</h1>
     <!-- this page is created by Kate Onyshchenko -->
-    <h3>Content</h3>
+    
+    <div id="content"> <h3>Content</h3>
     <ul>
         <li><a href="#basic-info">Basic info</a></li>
         <li><a href="#characteristics">Characteristics</a></li>
         <li><a href="#coat-colour"> Coat and colour</a></li>
         <li><a href="#traits"> Traits</a></li>
         <li><a href="#subtypes"> Subtypes</a></li>
-        <li><a href="#rating"> The Top 5 Prize-winning Golden Retriever Breeders in the World</a></li>
-    </ul>
+        <li><a href="#rating">Top 5 Prize-winning Golden Retriever Breeders</a></li>
+    </ul></div>
     
     <h2 id="basic-info">Basic info</h2>
     
