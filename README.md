@@ -3,35 +3,29 @@
     <head>
         <meta charset="utf-8">
         <title>Golden Retrievers</title>
-   
-   </head>
-   
-   <style>
-       
-       h1 {
+    </head>
+    <style>
+        h1 {
             color:rgb(37, 8, 255);
             font-weight:bold;
         }
-       
-       h2 {
+        h2 {
             color:rgb(77, 93, 171);
             font-weight:bold;
         }
-       
-       body {
+        body {
             background-color:rgb(218, 240, 226);
             font-family: monospace;
             font-size:15px;
             line-height:1em;
         }
-        
         #british-subtype {
             background-color:rgb(232, 237, 161);
             font-style:italic;
         }
         
         #American-subtype {
-            background-color:rgb(230, 193, 154);
+            background-color:rgb(237, 193, 150);
             font-style:italic;
             
         }
@@ -117,15 +111,15 @@
 
 <h2 id="subtypes">Subtypes</h2>
 <ul>
-    <li id="british-subtype">British</li>
-    <p id="british-subtype">The coat is generally lighter in colour than in the American types. Males stand between 56 to 61 cm at the withers; females are between 51 to 56 cm. </p>
-   <a href="https://goldenretrieversontario.com/english-or-british-type-golden-retrievers/"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/WizzdomOfSoulcharisma.jpg" alt="British retreiver" width="300" class="center"></a>
-    <li id="American-subtype">American</li>
-    <p id="American-subtype">Lankier and less muscular than other types, males stand between 58 and 61 cm in height at the withers; females are 21.5 to 22.5 in (55 to 57 cm) tall. Their coats are darker in colour and occur in various shades of lustrous gold with moderate feathering.</p>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/GoldenRetrieverSnow.jpg" alt="American retreiver" width="300" class="center">
-    <li id="canadian-subtype">Canadian</li>
-    <p id="canadian-subtype">Thinner and darker coat and stands taller than other types. Males stand 58 and 61 cm in height at withers; and females 55 to 57 cm.</p>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Canadian_Golden_Retriever.jpeg" alt="Canadian retreiver" width="300" class="center">
+    <div id="british-subtype"><li>British</li>
+    <p>The coat is generally lighter in colour than in the American types. Males stand between 56 to 61 cm at the withers; females are between 51 to 56 cm. </p>
+   <a href="https://goldenretrieversontario.com/english-or-british-type-golden-retrievers/"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/WizzdomOfSoulcharisma.jpg" alt="British retreiver" width="300" class="center"></a></div>
+    <div id="American-subtype"><li>American</li>
+    <p>Lankier and less muscular than other types, males stand between 58 and 61 cm in height at the withers; females are 21.5 to 22.5 in (55 to 57 cm) tall. Their coats are darker in colour and occur in various shades of lustrous gold with moderate feathering.</p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/GoldenRetrieverSnow.jpg" alt="American retreiver" width="300" class="center"></div>
+    <div id="canadian-subtype"><li>Canadian</li>
+    <p>Thinner and darker coat and stands taller than other types. Males stand 58 and 61 cm in height at withers; and females 55 to 57 cm.</p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Canadian_Golden_Retriever.jpeg" alt="Canadian retreiver" width="300" class="center"></div>
     
 </ul>
 
