@@ -47,7 +47,6 @@
             
         }
        .center {
-           display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
@@ -90,7 +89,7 @@
     
     <h2 id="traits">Traits</h2>
     
-    <table border="1" display="none">
+    <table id="table1" border="1">
       
             <tr>
              <th>Weigt</th>
