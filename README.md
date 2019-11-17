@@ -77,6 +77,7 @@
            left:5px;
            padding:5px;
            border:2px solid rgb(14, 25, 179);
+           width:50%;
        }
      
         
