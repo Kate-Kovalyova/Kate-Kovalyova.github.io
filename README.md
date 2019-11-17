@@ -48,7 +48,6 @@
         
        #table {
        display:none;
-       table-layout: fixed;
        }
      
         
