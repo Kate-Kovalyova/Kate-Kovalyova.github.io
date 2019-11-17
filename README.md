@@ -8,6 +8,9 @@
         h1 {
             color:rgb(37, 8, 255);
             font-weight:bold;
+            padding:15px;
+            border:5px solid rgb(72, 78, 189);
+            background-color: rgb(188, 232, 235);
         }
         h2 {
             color:rgb(77, 93, 171);
