@@ -79,6 +79,12 @@
            border:2px solid rgb(14, 25, 179);
            width:50%;
        }
+       #floating-image {
+           float:left;
+           width:120px;
+           border:5px ridge rgb(206, 212, 19);
+           margin-right:5px;
+       }
      
         
     </style>
@@ -112,11 +118,11 @@
 <p class="explanation-text1">However, <em>all</em> Golden Retrievers are <strong>blonde, yellow, or gold in colour</strong>, and all subtypes are susceptible to the same health problems.</p>
     
     <h2 id="coat-colour">Coat and colour</h2>
-    
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Golde33443.jpg" alt="A light golden puppy" id="floating-image">
     <p class="explanation-text2">As indicated by their name, their coats occur in <em>light golden</em> to <em>dark golden</em> colours.</p> 
+    
    <p class="explanation-text2"> The topcoat is <em>water-resistant</em> and slightly wavy, and sheds in small amounts throughout the year. The undercoat is soft and keeps the retriever cool in summer and warm in winter; it <b>sheds</b> in the spring and fall. </p>
     
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Golde33443.jpg" alt="A light golden puppy" class="pic">
     
     <h2 id="traits">Traits</h2>
     
