@@ -3,22 +3,28 @@
     <head>
         <meta charset="utf-8">
         <title>Golden Retrievers</title>
-    </head>
-    <style>
-        h1 {
+   
+   </head>
+   
+   <style>
+       
+       h1 {
             color:rgb(37, 8, 255);
             font-weight:bold;
         }
-        h2 {
+       
+       h2 {
             color:rgb(77, 93, 171);
             font-weight:bold;
         }
-        body {
+       
+       body {
             background-color:rgb(218, 240, 226);
             font-family: monospace;
             font-size:15px;
             line-height:1em;
         }
+        
         #british-subtype {
             background-color:rgb(232, 237, 161);
             font-style:italic;
@@ -49,7 +55,6 @@
        #table {
        width:100%;
        display:table-row;
-       background-color:green;
        }
      
         
