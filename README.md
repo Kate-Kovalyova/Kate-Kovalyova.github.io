@@ -45,6 +45,10 @@
         .explanation-text2 {
             color:rgb(240, 29, 89);
         }
+        
+       #table {
+       display:none
+       }
      
         
     </style>
@@ -84,7 +88,7 @@
     
     <h2 id="traits">Traits</h2>
     
-    <table border="1">
+    <table id="table" border="1">
       
             <tr>
              <th>Weigt</th>
