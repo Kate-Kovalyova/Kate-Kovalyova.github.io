@@ -47,7 +47,8 @@
         }
         
        #table {
-       display:none
+       display:none;
+       table-layout: fixed;
        }
      
         
