@@ -48,7 +48,7 @@
         
        #table {
        width:100%;
-       display:flex;
+       display:table-row;
        }
      
         
