@@ -92,22 +92,22 @@
     
     <table id="table-traits" border="1">
         <thead>
-        <tr>
-        <th>Weigt</th>
-           <th>Height</th>
-           <th>Coat</th>
-           <th>Color</th>
-           <th>Life span</th>
-           </tr>
-         </thead>
-         <tbody>
-        <tr>
+            <tr>
+             <th>Weigt</th>
+             <th>Height</th>
+             <th>Coat</th>
+             <th>Color</th>
+             <th>Life span</th>
+            </tr>
+        </thead>
+        <tbody>
+         <tr>
             <td>29-34 kg</td>
             <td>56-61 cm</td>
             <td>straight or moderately wavy</td>
             <td>any shades of gold or cream</td>
             <td>10-12 years</td>
-        </tr>
+         </tr>
         </tbody>
     </table>
 
