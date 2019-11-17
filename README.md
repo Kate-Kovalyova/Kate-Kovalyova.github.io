@@ -44,13 +44,8 @@
         }
         .explanation-text2 {
             color:rgb(240, 29, 89);
-            
         }
-       .center {
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-       }
+     
         
     </style>
     <body>
@@ -89,7 +84,7 @@
     
     <h2 id="traits">Traits</h2>
     
-    <table class="center" border="1">
+    <table border="1">
       
             <tr>
              <th>Weigt</th>
