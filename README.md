@@ -55,17 +55,26 @@
        }
        .pic {
            width:300px;
+           border:5px ridge rgb(206, 212, 19);
+           margin:5px 5px 15px 16px;
        }
        #overflow-subtypes {
-           width:70%;
+           width:90%;
            height:480px;
            overflow:auto;
+           padding:6px;
+       }
+       #container {
+           margin: 8px 8px 8px 10px;
+           padding:10px;
+           border:1px solid rgb(14, 25, 179);
        }
      
         
     </style>
     <body>
-
+    
+    <div id="container">
     <h1>Golden Retrievers</h1>
     <!-- this page is created by Kate Onyshchenko -->
     <h3>Content</h3>
@@ -142,6 +151,6 @@
     <li>Bonsaviour</li>
     <li>Linjor Retrievers</li>
 </ol>
-    
+    </div>
     </body>
 </html>
