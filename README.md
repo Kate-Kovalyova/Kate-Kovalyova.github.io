@@ -47,7 +47,7 @@
         }
         
        #table {
-       display:none;
+       width:100%;
        }
      
         
