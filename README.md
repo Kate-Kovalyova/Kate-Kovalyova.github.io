@@ -23,9 +23,7 @@
             background-color:rgb(232, 237, 161);
             font-style:italic;
         }
-        #table-traits {
-            background-color:rgb(178, 232, 224);
-        }
+        
         #American-subtype {
             background-color:rgb(230, 193, 154);
             font-style:italic;
