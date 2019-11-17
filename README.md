@@ -90,8 +90,8 @@
     
     <h2 id="traits">Traits</h2>
     
-    <table id="table-traits" border="1">
-        <thead>
+    <table border="1">
+      
             <tr>
              <th>Weigt</th>
              <th>Height</th>
@@ -99,8 +99,7 @@
              <th>Color</th>
              <th>Life span</th>
             </tr>
-        </thead>
-        <tbody>
+      
          <tr>
             <td>29-34 kg</td>
             <td>56-61 cm</td>
@@ -108,7 +107,7 @@
             <td>any shades of gold or cream</td>
             <td>10-12 years</td>
          </tr>
-        </tbody>
+       
     </table>
 
 <h2 id="subtypes">Subtypes</h2>
