@@ -50,6 +50,9 @@
        width:100%;
        display:table-row;
        }
+       .bold-text {
+           font-weight:bold;
+       }
      
         
     </style>
@@ -111,19 +114,19 @@
 
 <h2 id="subtypes">Subtypes</h2>
 <ul>
-    <div id="british-subtype"><li>British</li>
+    <div id="british-subtype"><li class="bold-text">British</li>
     <p>The coat is generally lighter in colour than in the American types. Males stand between 56 to 61 cm at the withers; females are between 51 to 56 cm. </p>
    <a href="https://goldenretrieversontario.com/english-or-british-type-golden-retrievers/"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/WizzdomOfSoulcharisma.jpg" alt="British retreiver" width="300" class="center"></a></div>
-    <div id="American-subtype"><li>American</li>
+    <div id="American-subtype"><li class="bold-text">American</li>
     <p>Lankier and less muscular than other types, males stand between 58 and 61 cm in height at the withers; females are 21.5 to 22.5 in (55 to 57 cm) tall. Their coats are darker in colour and occur in various shades of lustrous gold with moderate feathering.</p>
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/GoldenRetrieverSnow.jpg" alt="American retreiver" width="300" class="center"></div>
-    <div id="canadian-subtype"><li>Canadian</li>
+    <div id="canadian-subtype"><li class="bold-text">Canadian</li>
     <p>Thinner and darker coat and stands taller than other types. Males stand 58 and 61 cm in height at withers; and females 55 to 57 cm.</p>
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Canadian_Golden_Retriever.jpeg" alt="Canadian retreiver" width="300" class="center"></div>
     
 </ul>
 
-<h2 id="rating">The Top 5 Prize-winning Golden Retriever Breeders in the World</h2>
+<h2 id="rating">The <span class="bold-text">Top 5 Prize-winning Golden Retriever Breeders</span> in the World</h2>
 <ol>
     <li>A Promise Kennels</li>
     <li>Bearabella Golden Retrievers</li>
