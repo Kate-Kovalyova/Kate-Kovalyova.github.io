@@ -48,6 +48,7 @@
         
        #table {
        width:100%;
+       display:flex;
        }
      
         
