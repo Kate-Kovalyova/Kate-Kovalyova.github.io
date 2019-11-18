@@ -69,11 +69,10 @@
        }
        a:hover {
            background-color:rgb(217, 208, 217);
-       }
-     
-        
+       }   
     </style> -->
-    <body>
+   
+   <body>
     
     <div id="container">
     <h1>Golden Retrievers</h1>
