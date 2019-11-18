@@ -11,6 +11,7 @@
         }
         h1 {
             padding:15px;
+            margin-bottom:20px;
             border:5px solid rgb(177, 177, 184);
             background-color: rgb(223, 227, 227);
         }
