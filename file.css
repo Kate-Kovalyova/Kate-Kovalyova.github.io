@@ -1,19 +1,19 @@
-h1, h2 {
-            color:rgb(86, 85, 97);
+h1, h2, h3 {
+            color:rgb(33,68,98);
             font-weight:bold;
         }
         h1 {
             padding:15px;
             margin-bottom:20px;
             border:5px solid rgb(33,68,98);
-            background-color: rgb(223, 227, 227);
+            background-color: rgb(200,228,250);
         }
         body {
-            background-color:rgb(232, 218, 192);
+            background-color:rgb(242, 222, 215);
             font-family: 'Raleway';
             font-size:15px;
             line-height:1em;
-            color:rgb(110, 106, 110);
+            color:rgb(33,68,98);
         }
         #british-subtype {
             background-color:rgb(232, 237, 161);
@@ -27,6 +27,7 @@ h1, h2 {
         #table {
        width:100%;
        display:table-row;
+       background-color:rgb(200,228,250);
        }
        .overflow-subtypes {
            width:40%;
@@ -44,9 +45,9 @@ h1, h2 {
            position:relative;
            left:5px;
            padding:5px;
-           border:3px solid rgb(180, 181, 191);
-           width:20%;
-           background-color:rgb(223, 227, 227);
+           border:3px solid rgb(33,68,98);
+           width:30%;
+           background-color:rgb(200,228,250);
        }
        .pic {
            width:300px;
