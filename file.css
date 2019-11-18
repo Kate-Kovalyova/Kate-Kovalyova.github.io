@@ -10,7 +10,7 @@ h1, h2 {
         }
         body {
             background-color:rgb(243, 242, 245);
-            font-family: monospace;
+            font-family: 'Raleway';
             font-size:15px;
             line-height:1em;
             color:rgb(110, 106, 110);
@@ -29,14 +29,14 @@ h1, h2 {
        display:table-row;
        }
        .overflow-subtypes {
-           width:90%;
+           width:40%;
            height:480px;
            overflow:auto;
            padding:6px;
            font-style:italic;
        }
        #container {
-           margin: 8px 8px 8px 10px;
+           margin: 20px 20px 20px 20px;
            padding:10px;
            border:5px solid rgb(180, 181, 191);
        }
@@ -45,7 +45,7 @@ h1, h2 {
            left:5px;
            padding:5px;
            border:3px solid rgb(180, 181, 191);
-           width:50%;
+           width:30%;
            background-color:rgb(223, 227, 227);
        }
        .pic {
@@ -61,4 +61,4 @@ h1, h2 {
        }
        a:hover {
            background-color:rgb(217, 208, 217);
-       }
+       }   
