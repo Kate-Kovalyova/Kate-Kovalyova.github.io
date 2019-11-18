@@ -59,12 +59,7 @@
            padding:5px;
            border:3px solid rgb(180, 181, 191);
            width:50%;
-       }
-       #floating-image {
-           float:left;
-           width:120px;
-           border:5px ridge rgb(140, 140, 122);
-           margin-right:5px;
+           background-color:rgb(223, 227, 227);
        }
        .explanation-text {
             color:rgb(110, 106, 110);
@@ -73,6 +68,12 @@
            width:300px;
            border:6px ridge rgb(140, 140, 122);
            margin:5px 5px 15px 16px;
+       }
+       img.floating-image {
+           float:left;
+           width:120px;
+           border:5px ridge rgb(140, 140, 122);
+           margin-right:5px;
        }
      
         
@@ -95,22 +96,22 @@
     
     <h2 id="basic-info">Basic info</h2>
     
-    <p class="explanation-text">The Golden Retriever is a <em>large-sized</em> gun dog that retrieves shot waterfowl, such as ducks and upland game birds, during hunting and shooting parties. The name <em>"retriever"</em> refers to the breed's ability to retrieve shot game undamaged due to their soft mouth.</p>
+    <div class="explanation-text"><p>The Golden Retriever is a <em>large-sized</em> gun dog that retrieves shot waterfowl, such as ducks and upland game birds, during hunting and shooting parties. The name <em>"retriever"</em> refers to the breed's ability to retrieve shot game undamaged due to their soft mouth.</p></div>
     <h5><em><a href="https://en.wikipedia.org/wiki/Golden_Retriever">Read more info on Wiki</a></em></h5>
     
     <h2 id="characteristics">Characteristics</h2>
     
-    <p class="explanation-text">The Golden Retriever is a <b>medium-large, strongly built breed with a dense, water-repellant wavy coat</b>.</p>
+    <div class="explanation-text"><p>The Golden Retriever is a <b>medium-large, strongly built breed with a dense, water-repellant wavy coat</b>.</p>
     
-    <p class="explanation-text">As a dog with origins in pedigree breeding, and owing to its widespread historical popularity, some regional variations have emerged in the breed; therefore, the three subtypes of the Golden Retriever reflect the typical variations in dimensions and coat.</p>
+    <p>As a dog with origins in pedigree breeding, and owing to its widespread historical popularity, some regional variations have emerged in the breed; therefore, the three subtypes of the Golden Retriever reflect the typical variations in dimensions and coat.</p>
     
-<p class="explanation-text">However, <em>all</em> Golden Retrievers are <strong>blonde, yellow, or gold in colour</strong>, and all subtypes are susceptible to the same health problems.</p>
+<p>However, <em>all</em> Golden Retrievers are <strong>blonde, yellow, or gold in colour</strong>, and all subtypes are susceptible to the same health problems.</p></div>
     
-    <h2 id="coat-colour">Coat and colour</h2>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Golde33443.jpg" alt="A light golden puppy" id="floating-image">
-    <p class="explanation-text">As indicated by their name, their coats occur in <em>light golden</em> to <em>dark golden</em> colours.</p> 
+    <h2>Coat and colour</h2>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Golde33443.jpg" alt="A light golden puppy" class="floating-image">
+   <div class="explanation-text"><p>As indicated by their name, their coats occur in <em>light golden</em> to <em>dark golden</em> colours.</p> 
     
-   <p class="explanation-text"> The topcoat is <em>water-resistant</em> and slightly wavy, and sheds in small amounts throughout the year. The undercoat is soft and keeps the retriever cool in summer and warm in winter; it <b>sheds</b> in the spring and fall. </p>
+   <p> The topcoat is <em>water-resistant</em> and slightly wavy, and sheds in small amounts throughout the year. The undercoat is soft and keeps the retriever cool in summer and warm in winter; it <b>sheds</b> in the spring and fall. </p></div>
     
     
     <h2 id="traits">Traits</h2>
