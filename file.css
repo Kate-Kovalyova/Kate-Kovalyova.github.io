@@ -15,32 +15,23 @@ h1, h2, h3 {
             line-height:1.2em;
             color:rgb(66, 72, 74);
         }
-        #british-subtype {
-            background-color:rgb(232, 237, 161);
-        }
-        #american-subtype {
-            background-color:rgb(237, 193, 150);
-        }
-        #canadian-subtype {
-            background-color:rgb(227, 206, 152);
-        }
         #table {
             width:100%;
             display:table-row;
             border:5px solid rgb(135,143,201);
         table, th, td {
-            border: 1px solid black;
+            border: 1px solid rgb(135,143,201);
             border-collapse: collapse;
             background-color:rgb(203,235,247);
         }
-             
-       }
        .overflow-subtypes {
-           width:40%;
+           width:90%;
            height:480px;
            overflow:auto;
            padding:6px;
            font-style:italic;
+           background-color:rgb(203,235,247);
+           border: 1px solid rgb(135,143,201);
        }
        #container {
            margin: 20px 20px 20px 20px;
