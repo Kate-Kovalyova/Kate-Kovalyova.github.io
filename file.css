@@ -25,8 +25,10 @@ h1, h2, h3 {
             background-color:rgb(227, 206, 152);
         }
         #table {
-       width:100%;
-       display:table-row;
+            width:100%;
+            display:table-row;
+            border:5px solid rgb(135,143,201);
+             
        }
        .overflow-subtypes {
            width:40%;
@@ -62,3 +64,4 @@ h1, h2, h3 {
        a:hover {
            background-color:rgb(217, 208, 217);
        }   
+
