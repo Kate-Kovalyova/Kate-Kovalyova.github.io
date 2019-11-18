@@ -28,6 +28,10 @@ h1, h2, h3 {
             width:100%;
             display:table-row;
             border:5px solid rgb(135,143,201);
+        table, th, td {
+            border: 1px solid black;
+            border-collapse: collapse;
+        }
              
        }
        .overflow-subtypes {
