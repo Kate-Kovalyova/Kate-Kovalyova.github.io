@@ -48,7 +48,7 @@ h1, h2, h3 {
        }
        .pic {
            width:300px;
-           border:6px ridge rgb(140, 140, 122);
+           border:6px ridge rgb(135,143,201);
            margin:5px 5px 15px 16px;
        }
        img.floating-image {
