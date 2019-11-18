@@ -5,7 +5,7 @@
         <title>Golden Retrievers</title>
         <link rel="stylesheet" type="text/css" href="https://github.com/Kate-Kovalyova/Kate-Kovalyova.github.io/blob/master/css">
     </head>
-    /*<style>
+    <!-- <style>
         h1, h2 {
             color:rgb(86, 85, 97);
             font-weight:bold;
@@ -72,7 +72,7 @@
        }
      
         
-    </style>*/
+    </style> -->
     <body>
     
     <div id="container">
