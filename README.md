@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <title>Golden Retrievers</title>
-        <link rel="file.css" type="text/css" href="https://github.com/Kate-Kovalyova/Kate-Kovalyova.github.io/blob/master/file.css">
+        <link rel="stylesheet" type="text/css" href="https://github.com/Kate-Kovalyova/Kate-Kovalyova.github.io/blob/master/file.css">
     </head>
     <!-- <style>
         h1, h2 {
