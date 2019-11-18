@@ -19,32 +19,27 @@
             font-family: monospace;
             font-size:15px;
             line-height:1em;
+            color:rgb(110, 106, 110);
         }
         #british-subtype {
             background-color:rgb(232, 237, 161);
-            font-style:italic;
-            color:rgb(110, 106, 110);
         }
         #american-subtype {
             background-color:rgb(237, 193, 150);
-            font-style:italic;
-            color:rgb(110, 106, 110);
         }
         #canadian-subtype {
             background-color:rgb(227, 206, 152);
-            font-style:italic;
-            color:rgb(110, 106, 110);
         }
         #table {
        width:100%;
        display:table-row;
-       color:rgb(110, 106, 110);
        }
        .overflow-subtypes {
            width:90%;
            height:480px;
            overflow:auto;
            padding:6px;
+           font-style:italic;
        }
        #container {
            margin: 8px 8px 8px 10px;
@@ -59,9 +54,6 @@
            width:50%;
            background-color:rgb(223, 227, 227);
        }
-       .explanation-text {
-            color:rgb(110, 106, 110);
-        }
        .pic {
            width:300px;
            border:6px ridge rgb(140, 140, 122);
@@ -97,22 +89,22 @@
     
     <h2 id="basic-info">Basic info</h2>
     
-    <div class="explanation-text"><p>The Golden Retriever is a <em>large-sized</em> gun dog that retrieves shot waterfowl, such as ducks and upland game birds, during hunting and shooting parties. The name <em>"retriever"</em> refers to the breed's ability to retrieve shot game undamaged due to their soft mouth.</p></div>
+    <p>The Golden Retriever is a <em>large-sized</em> gun dog that retrieves shot waterfowl, such as ducks and upland game birds, during hunting and shooting parties. The name <em>"retriever"</em> refers to the breed's ability to retrieve shot game undamaged due to their soft mouth.</p>
     <h5><em><a href="https://en.wikipedia.org/wiki/Golden_Retriever">Read more info on Wiki</a></em></h5>
     
     <h2 id="characteristics">Characteristics</h2>
     
-    <div class="explanation-text"><p>The Golden Retriever is a <b>medium-large, strongly built breed with a dense, water-repellant wavy coat</b>.</p>
+    <p>The Golden Retriever is a <b>medium-large, strongly built breed with a dense, water-repellant wavy coat</b>.</p>
     
     <p>As a dog with origins in pedigree breeding, and owing to its widespread historical popularity, some regional variations have emerged in the breed; therefore, the three subtypes of the Golden Retriever reflect the typical variations in dimensions and coat.</p>
     
-<p>However, <em>all</em> Golden Retrievers are <strong>blonde, yellow, or gold in colour</strong>, and all subtypes are susceptible to the same health problems.</p></div>
+<p>However, <em>all</em> Golden Retrievers are <strong>blonde, yellow, or gold in colour</strong>, and all subtypes are susceptible to the same health problems.</p>
     
     <h2>Coat and colour</h2>
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Golde33443.jpg" alt="A light golden puppy" class="floating-image">
-   <div class="explanation-text"><p>As indicated by their name, their coats occur in <em>light golden</em> to <em>dark golden</em> colours.</p> 
+   <p>As indicated by their name, their coats occur in <em>light golden</em> to <em>dark golden</em> colours.</p> 
     
-   <p> The topcoat is <em>water-resistant</em> and slightly wavy, and sheds in small amounts throughout the year. The undercoat is soft and keeps the retriever cool in summer and warm in winter; it <b>sheds</b> in the spring and fall. </p></div>
+   <p> The topcoat is <em>water-resistant</em> and slightly wavy, and sheds in small amounts throughout the year. The undercoat is soft and keeps the retriever cool in summer and warm in winter; it <b>sheds</b> in the spring and fall. </p>
     
     
     <h2 id="traits">Traits</h2>
@@ -152,7 +144,7 @@
 </ul>
 
 <h2 id="rating">The <span>Top 5 Prize-winning Golden Retriever Breeders</span> in the World</h2>
-<ol class="explanation-text">
+<ol>
     <li>A Promise Kennels</li>
     <li>Bearabella Golden Retrievers</li>
     <li>Amica Goldens</li>
