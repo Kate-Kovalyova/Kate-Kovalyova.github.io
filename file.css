@@ -33,7 +33,7 @@ h1, h2, h3 {
            padding:6px;
            font-style:italic;
            background-color:rgb(203,235,247);
-           border: 1px solid rgb(135,143,201);
+           border: 5px solid rgb(135,143,201);
        }
        #container {
            margin: 20px 20px 20px 20px;
