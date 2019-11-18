@@ -5,16 +5,14 @@
         <title>Golden Retrievers</title>
     </head>
     <style>
-        h1 {
+        h1, h2 {
             color:rgb(86, 85, 97);
             font-weight:bold;
+        }
+        h1 {
             padding:15px;
             border:5px solid rgb(177, 177, 184);
             background-color: rgb(223, 227, 227);
-        }
-        h2 {
-            color:rgb(86, 85, 97);
-            font-weight:bold;
         }
         body {
             background-color:rgb(243, 242, 245);
@@ -42,7 +40,7 @@
        display:table-row;
        color:rgb(110, 106, 110);
        }
-       #overflow-subtypes {
+       .overflow-subtypes {
            width:90%;
            height:480px;
            overflow:auto;
@@ -74,6 +72,9 @@
            width:120px;
            border:5px ridge rgb(140, 140, 122);
            margin-right:5px;
+       }
+       a:hover {
+           background-color:rgb(217, 208, 217);
        }
      
         
@@ -138,7 +139,7 @@
 
 <h2 id="subtypes">Subtypes</h2>
 <ul>
-    <div id="overflow-subtypes"> <div id="british-subtype"><li><strong>British</strong></li>
+    <div class="overflow-subtypes"> <div id="british-subtype"><li><strong>British</strong></li>
     <p>The coat is generally lighter in colour than in the American types. Males stand between 56 to 61 cm at the withers; females are between 51 to 56 cm. </p>
    <a  href="https://goldenretrieversontario.com/english-or-british-type-golden-retrievers/"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/WizzdomOfSoulcharisma.jpg" alt="British retreiver" class="pic"></a></div>
     <div id="american-subtype"><li><strong>American</strong></li>
